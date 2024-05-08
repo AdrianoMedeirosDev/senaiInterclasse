@@ -177,7 +177,7 @@ header li a:hover::after {
     }
 
     .btn {
-        max-width: 70vw;
+        width: 70vw;
     }
 }
 
